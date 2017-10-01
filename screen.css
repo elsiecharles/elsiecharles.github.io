@@ -58,10 +58,10 @@ a {
   padding: 50px; }
 
   h1{
-    color: purple;
+    color: #9b112f;
     font-size: 12em;
-    border: 5px solid red;
-    background-color: teal;
+    border: 5px solid #11306d;
+    background-color: #2f8ece;
   }
   
   img#profilepic {
