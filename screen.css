@@ -59,8 +59,9 @@ a {
 
   h1{
     color: purple;
-    background-color: teal
-    font-size: 12em
+    font-size: 12em;
+    border: 5px solid red;
+    background-color: teal;
   }
 
   p{color: silver;
