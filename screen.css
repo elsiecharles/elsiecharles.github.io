@@ -67,3 +67,7 @@ a {
   p{color: silver;
 
   }
+
+  img#profilepic {
+    width: 500px;
+  }
