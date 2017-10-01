@@ -66,6 +66,8 @@ a {
   
   img#profilepic {
     width: 500px;
+    display: block;
+    margin: auto;
   }
   p{color: silver;
 
