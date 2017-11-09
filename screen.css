@@ -52,26 +52,33 @@ body {
 a {
   color: #0388a6; }
   a:hover {
-    color: #009ce0; }
+    color: #009ce0; 
+  }
 
 #main {
   padding: 50px; }
 
   h1{
     color: #9b112f;
-    font-size: 12em;
+    font-size: 4em;
     border: 5px solid #11306d;
     background-color: #2f8ece;
   }
   
   img#profilepic {
-    width: 500px;
+    width: 200px;
     display: block;
-    margin: auto;
+    margin: auto
+    align: left;
   }
-  p{color: black;
-    text-align: center;
+  
+  p#subheader{
+    color: black;
+    font-size: 5em; 
+  }
 
+  p{color: black;
+    text-align: left;
   }
 
 
