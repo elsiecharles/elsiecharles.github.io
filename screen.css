@@ -106,21 +106,51 @@ a {
     font-family: "avenir";
     font-size: 2em;
     text-align: center;
-    border: solid #11306d;
+    border: solid #9b112f;
   }
 
   div#CurrentWorkSection{
     font-family: "avenir";
     font-size: 1.25em;
     padding:25px;
-    vertical-align: 20px;
-   
   }
 
   img#Zombulator {
     width: 200px;
     float: left;
-    padding: 10px;
+    padding-right: 10px;
   }
 
+  div#ResumeSection{
+    font-family: "avenir";
+    color: black;
+    font-size: 1.25em;
+    padding:25px;
+  }
 
+  p#ResumeTitle{
+    font-family: "avenir";
+    font-size: 2em;
+    text-align: center;
+    border: solid #9b112f;
+  }
+
+  img#ResumePic {
+    width: 200px;
+    float: left;
+    padding: 25px;
+  }
+ 
+ div#ContactSection {
+  font-family: "avenir";
+  color: black;
+  font-size: 1em;
+  padding:25px;
+ }
+
+ p#ContactTitle{
+  font-family: "avenir";
+  font-size: 2.25em;
+  text-align: center;
+  border: solid #9b112f;
+ }
