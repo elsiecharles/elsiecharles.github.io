@@ -85,7 +85,6 @@ img#profilepic {
 
 div#AboutMeSection{
   font-family: "avenir";
-  color: black;
   font-size: 1.25em;
   text-indent: 2em;
   padding:25px; } 
@@ -111,7 +110,6 @@ div#CurrentWorkSection{
 
 div#ResumeSection{
   font-family: "avenir";
-  color: black;
   font-size: 1.25em;
   padding:25px; }
     p#ResumeTitle{
@@ -126,12 +124,12 @@ div#ResumeSection{
  
 div#ContactSection {
   font-family: "avenir";
-  color: black;
   font-size: 1em;
-  padding:25px; }
+  padding:25px; 
+  text-align: left;}
     p#ContactTitle{
     font-family: "avenir";
-    font-size: 2.25em;
+    font-size: 2.5em;
     text-align: center;
     border: solid #9b112f;
     }
