@@ -61,6 +61,7 @@ a {
   h1{
     color: #9b112f;
     font-size: 4em;
+    font: "Times New Roman";
     border: 5px solid #11306d;
     background-color: #2f8ece;
   }
@@ -74,11 +75,16 @@ a {
   
   p#subheader{
     color: black;
-    font-size: 5em; 
+    font-size: 2em; 
   }
 
   p{color: black;
     text-align: left;
+  }
+
+  img#Zombulator {
+    width: 200px;
+    float: center;
   }
 
 
